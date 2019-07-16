@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "655893775024",
+    "firebase_url": "https://okolea-e908e.firebaseio.com",
+    "project_id": "okolea-e908e",
+    "storage_bucket": "okolea-e908e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655893775024:android:03323941f1770791",
+        "android_client_info": {
+          "package_name": "com.okolea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655893775024-d901jdkb6afbpihciqla1k0rmdu45aan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuYF68PnAvb9reVChcoWVdSYLbDiZL0wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655893775024-d901jdkb6afbpihciqla1k0rmdu45aan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
